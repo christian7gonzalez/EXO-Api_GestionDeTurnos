@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11222.15 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_GestionDeTurnos", "Api_GestionDeTurnos.csproj", "{40462B19-FDC9-3569-E1FD-E254B494E994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40462B19-FDC9-3569-E1FD-E254B494E994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40462B19-FDC9-3569-E1FD-E254B494E994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40462B19-FDC9-3569-E1FD-E254B494E994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40462B19-FDC9-3569-E1FD-E254B494E994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28E2583E-4B9A-426A-9411-CC0B00BBD963}
+	EndGlobalSection
+EndGlobal
